@@ -1,8 +1,8 @@
 /** @type {import('gatsby).GatsbyConfig} */
 module.exports = {
   siteMetadata: {
-      title: `new`,
-    siteUrl: `https://www.yourdomain.tld`
+      title: `Hasan Nizamani`,
+    siteUrl: `https://www.hasanniz.com`
   },
   plugins: ["gatsby-plugin-sass"]
 };
